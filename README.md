@@ -1,4 +1,4 @@
-App created following the below tutorial
+App created following the tutorial: 
 https://www.youtube.com/watch?v=kN1Czs0m1SU
 
 Packager tutorial:
